@@ -1,10 +1,10 @@
 import fetch from 'node-fetch';
 
-const apiUrl = 'https://api.gcalls.co/api/v1/readAllAgents'; // Endpoint là Agents
-const apiKey = '6eec2cb0584d4779871f33eaca6fdc4d'; // Khóa API của Gcalls
+const apiUrl = ''; // Endpoint là Agents
+const apiKey = ''; // Khóa API của Gcalls
 
 const nocodbUrl = 'https://app.nocodb.com';
-const nocodbApiKey = '7o0u_jAB89dDxRP63VgPAkH_jO0nI_UXtQbgyDiL'; // Khóa API của NocoDB
+const nocodbApiKey = ''; // Khóa API của NocoDB
 
 const options = {
   method: 'POST',
